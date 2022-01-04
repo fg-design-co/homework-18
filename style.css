@@ -20,7 +20,7 @@ body {
     grid-column-end: 2;
     grid-row-start: 1;
     grid-row-end: 3;
-    background-image: url("/Users/francesco/Desktop/Furniture Store/images/furniture1.png");
+    background-image: url("homework-18/index.html/images/furniture1.png");
   }
 
   #secondaryProduct{
@@ -28,7 +28,7 @@ body {
     grid-column-end: 3;
     grid-row-start: 1;
     grid-row-end: 2;
-    background-image: url("/Users/francesco/Desktop/Furniture Store/images/furniture2.png");
+    background-image: url("homework-18/index.html/images/furniture2.png");
   }
 
   #CTA{
@@ -36,7 +36,7 @@ body {
     grid-column-end: 3;
     grid-row-start: 2;
     grid-row-end: 3;
-    background-image: url("/Users/francesco/Desktop/Furniture Store/images/woodbg.png");
+    background-image: url("homework-18/index.html/images/woodbg.png");
     cursor: pointer;
     justify-content: space-evenly;
   }
@@ -89,7 +89,7 @@ body {
     grid-column-end: 3;
     grid-row-start: 1;
     grid-row-end: 2;
-    background-image: url("/Users/francesco/Desktop/Furniture Store/images/furniture1.png");
+    background-image: url("homework-18/index.html/images/furniture1.png");
   }
   
   #secondaryProduct{
@@ -97,7 +97,7 @@ body {
     grid-column-end: 2;
     grid-row-start: 2;
     grid-row-end: 3;
-    background-image: url("/Users/francesco/Desktop/Furniture Store/images/furniture2.png");
+    background-image: url("homework-18/index.html/images/furniture2.png");
   }
   
   #CTA{
@@ -105,7 +105,7 @@ body {
     grid-column-end: 3;
     grid-row-start: 2;
     grid-row-end: 3;
-    background-image: url("/Users/francesco/Desktop/Furniture Store/images/woodbg.png");
+    background-image: url("homework-18/index.html/images/woodbg.png");
     cursor: pointer;
     justify-items: center;
   }
@@ -166,7 +166,7 @@ body {
   }
 
   #bookcases{
-    background-image:url("/Users/francesco/Desktop/Furniture Store/images/bookcases@2x.png");
+    background-image:url("homework-18/index.html/images/bookcases@2x.png");
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 1;
@@ -174,7 +174,7 @@ body {
   }
 
   #bedroom{
-    background-image:url("/Users/francesco/Desktop/Furniture Store/images/beds@2x.png");
+    background-image:url("homework-18/index.html/images/beds@2x.png");
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 1;
@@ -182,7 +182,7 @@ body {
   }
 
   #couches{
-    background-image:url("/Users/francesco/Desktop/Furniture Store/images/couch@2x.png");
+    background-image:url("homework-18/index.html/images/couch@2x.png");
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 1;
@@ -190,7 +190,7 @@ body {
   }
 
   #patio{
-    background-image:url("/Users/francesco/Desktop/Furniture Store/images/patio@2x.png");
+    background-image:url("homework-18/index.html/images/patio@2x.png");
     grid-column-start: 1;
     grid-column-end: 3;
     grid-row-start: 2;
@@ -198,7 +198,7 @@ body {
   }
 
   #desks{
-    background-image:url("/Users/francesco/Desktop/Furniture Store/images/desks@2x.png");
+    background-image:url("homework-18/index.html/images/desks@2x.png");
     grid-column-start: 1;
     grid-column-end: 4;
     grid-row-start: 3;
@@ -243,7 +243,7 @@ body {
   }
   
   #bookcases{
-    background-image:url("/Users/francesco/Desktop/Furniture Store/images/bookcases@2x.png");
+    background-image:url("homework-18/index.html/images/bookcases@2x.png");
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 1;
@@ -251,7 +251,7 @@ body {
   }
   
   #bedroom{
-    background-image:url("/Users/francesco/Desktop/Furniture Store/images/beds@2x.png");
+    background-image:url("homework-18/index.html/images/beds@2x.png");
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 2;
@@ -259,7 +259,7 @@ body {
   }
   
   #couches{
-    background-image:url("/Users/francesco/Desktop/Furniture Store/images/couch@2x.png");
+    background-image:url("homework-18/index.html/images/couch@2x.png");
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 3;
@@ -267,7 +267,7 @@ body {
   }
   
   #patio{
-    background-image:url("/Users/francesco/Desktop/Furniture Store/images/patio@2x.png");
+    background-image:url("homework-18/index.html/images/patio@2x.png");
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 4;
@@ -275,7 +275,7 @@ body {
   }
   
   #desks{
-    background-image:url("/Users/francesco/Desktop/Furniture Store/images/desks@2x.png");
+    background-image:url("homework-18/index.html/images/desks@2x.png");
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 5;
